@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\bin\Debug\net6.0\interactive-dice-roller.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\bin\Debug\net6.0\interactive-dice-roller.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\bin\Debug\net6.0\interactive-dice-roller.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\bin\Debug\net6.0\interactive-dice-roller.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\bin\Debug\net6.0\interactive-dice-roller.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\refint\interactive-dice-roller.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\interactive-dice-roller.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\interactive-dice-roller\obj\Debug\net6.0\ref\interactive-dice-roller.dll

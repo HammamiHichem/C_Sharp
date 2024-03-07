@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\bin\Debug\net6.0\Dice-Roll.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\bin\Debug\net6.0\Dice-Roll.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\bin\Debug\net6.0\Dice-Roll.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\bin\Debug\net6.0\Dice-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\bin\Debug\net6.0\Dice-Roll.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\refint\Dice-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\Dice-Roll.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Dice-Roll\obj\Debug\net6.0\ref\Dice-Roll.dll

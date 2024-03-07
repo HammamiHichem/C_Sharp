@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\bin\Debug\net6.0\Roll-Until.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\bin\Debug\net6.0\Roll-Until.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\bin\Debug\net6.0\Roll-Until.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\bin\Debug\net6.0\Roll-Until.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\bin\Debug\net6.0\Roll-Until.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\refint\Roll-Until.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\Roll-Until.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Roll-Until\obj\Debug\net6.0\ref\Roll-Until.dll

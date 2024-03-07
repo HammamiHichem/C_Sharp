@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\bin\Debug\net6.0\Assignment Fundamentals II.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\bin\Debug\net6.0\Assignment Fundamentals II.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\bin\Debug\net6.0\Assignment Fundamentals II.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\bin\Debug\net6.0\Assignment Fundamentals II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\bin\Debug\net6.0\Assignment Fundamentals II.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\refint\Assignment Fundamentals II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\Assignment Fundamentals II.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Assignment Fundamentals II\obj\Debug\net6.0\ref\Assignment Fundamentals II.dll

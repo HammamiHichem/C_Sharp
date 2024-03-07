@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\bin\Debug\net6.0\Coin-Flip.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\bin\Debug\net6.0\Coin-Flip.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\bin\Debug\net6.0\Coin-Flip.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\bin\Debug\net6.0\Coin-Flip.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\bin\Debug\net6.0\Coin-Flip.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\refint\Coin-Flip.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\Coin-Flip.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Coin-Flip\obj\Debug\net6.0\ref\Coin-Flip.dll

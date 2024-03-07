@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\bin\Debug\net6.0\Stat-Roll.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\bin\Debug\net6.0\Stat-Roll.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\bin\Debug\net6.0\Stat-Roll.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\bin\Debug\net6.0\Stat-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\bin\Debug\net6.0\Stat-Roll.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\refint\Stat-Roll.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\Stat-Roll.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Puzzles\Stat-Roll\obj\Debug\net6.0\ref\Stat-Roll.dll

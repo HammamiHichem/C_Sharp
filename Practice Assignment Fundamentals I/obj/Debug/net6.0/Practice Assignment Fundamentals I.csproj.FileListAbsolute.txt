@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\bin\Debug\net6.0\Practice Assignment Fundamentals I.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\bin\Debug\net6.0\Practice Assignment Fundamentals I.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\bin\Debug\net6.0\Practice Assignment Fundamentals I.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\bin\Debug\net6.0\Practice Assignment Fundamentals I.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\bin\Debug\net6.0\Practice Assignment Fundamentals I.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\refint\Practice Assignment Fundamentals I.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\Practice Assignment Fundamentals I.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fundamentals I\obj\Debug\net6.0\ref\Practice Assignment Fundamentals I.dll

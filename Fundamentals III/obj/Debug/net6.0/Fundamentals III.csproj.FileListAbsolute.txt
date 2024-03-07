@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\bin\Debug\net6.0\Fundamentals III.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\bin\Debug\net6.0\Fundamentals III.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\bin\Debug\net6.0\Fundamentals III.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\bin\Debug\net6.0\Fundamentals III.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\bin\Debug\net6.0\Fundamentals III.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\refint\Fundamentals III.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\Fundamentals III.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Fundamentals III\obj\Debug\net6.0\ref\Fundamentals III.dll
