@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\bin\Debug\net6.0\Practice Assignment Ride Mader.exe
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\bin\Debug\net6.0\Practice Assignment Ride Mader.deps.json
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\bin\Debug\net6.0\Practice Assignment Ride Mader.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\bin\Debug\net6.0\Practice Assignment Ride Mader.dll
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\bin\Debug\net6.0\Practice Assignment Ride Mader.pdb
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.dll
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\refint\Practice Assignment Ride Mader.dll
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.pdb
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\Practice Assignment Ride Mader.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C_Sharp\Practice Assignment Ride Mader\obj\Debug\net6.0\ref\Practice Assignment Ride Mader.dll
