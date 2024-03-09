@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\bin\Debug\net6.0\Practice Assignment Fuel Up!.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\bin\Debug\net6.0\Practice Assignment Fuel Up!.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\bin\Debug\net6.0\Practice Assignment Fuel Up!.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\bin\Debug\net6.0\Practice Assignment Fuel Up!.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\bin\Debug\net6.0\Practice Assignment Fuel Up!.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\refint\Practice Assignment Fuel Up!.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\Practice Assignment Fuel Up!.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Fuel Up!\obj\Debug\net6.0\ref\Practice Assignment Fuel Up!.dll
