@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\bin\Debug\net6.0\Core Assignment Game Developer II.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\bin\Debug\net6.0\Core Assignment Game Developer II.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\bin\Debug\net6.0\Core Assignment Game Developer II.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\bin\Debug\net6.0\Core Assignment Game Developer II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\bin\Debug\net6.0\Core Assignment Game Developer II.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\refint\Core Assignment Game Developer II.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\Core Assignment Game Developer II.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Core Assignment Game Developer II\obj\Debug\net6.0\ref\Core Assignment Game Developer II.dll
