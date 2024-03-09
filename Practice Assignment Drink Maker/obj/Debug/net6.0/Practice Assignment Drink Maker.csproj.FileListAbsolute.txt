@@ -1,0 +1,15 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\bin\Debug\net6.0\Practice Assignment Drink Maker.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\bin\Debug\net6.0\Practice Assignment Drink Maker.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\bin\Debug\net6.0\Practice Assignment Drink Maker.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\bin\Debug\net6.0\Practice Assignment Drink Maker.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\bin\Debug\net6.0\Practice Assignment Drink Maker.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\refint\Practice Assignment Drink Maker.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\Practice Assignment Drink Maker.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET\Practice Assignment Drink Maker\obj\Debug\net6.0\ref\Practice Assignment Drink Maker.dll
